@@ -1,4 +1,4 @@
-# Environmental Favourability Analysis in Protected Areas
+# Environmental Favourability analysis in protected areas
 
 ## Overview
 
